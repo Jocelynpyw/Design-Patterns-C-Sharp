@@ -1,0 +1,14 @@
+D:\PROJETS\C#\Strategie\Strategie\bin\Debug\net8.0\Strategie.exe
+D:\PROJETS\C#\Strategie\Strategie\bin\Debug\net8.0\Strategie.deps.json
+D:\PROJETS\C#\Strategie\Strategie\bin\Debug\net8.0\Strategie.runtimeconfig.json
+D:\PROJETS\C#\Strategie\Strategie\bin\Debug\net8.0\Strategie.dll
+D:\PROJETS\C#\Strategie\Strategie\bin\Debug\net8.0\Strategie.pdb
+D:\PROJETS\C#\Strategie\Strategie\obj\Debug\net8.0\Strategie.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETS\C#\Strategie\Strategie\obj\Debug\net8.0\Strategie.AssemblyInfoInputs.cache
+D:\PROJETS\C#\Strategie\Strategie\obj\Debug\net8.0\Strategie.AssemblyInfo.cs
+D:\PROJETS\C#\Strategie\Strategie\obj\Debug\net8.0\Strategie.csproj.CoreCompileInputs.cache
+D:\PROJETS\C#\Strategie\Strategie\obj\Debug\net8.0\Strategie.dll
+D:\PROJETS\C#\Strategie\Strategie\obj\Debug\net8.0\refint\Strategie.dll
+D:\PROJETS\C#\Strategie\Strategie\obj\Debug\net8.0\Strategie.pdb
+D:\PROJETS\C#\Strategie\Strategie\obj\Debug\net8.0\Strategie.genruntimeconfig.cache
+D:\PROJETS\C#\Strategie\Strategie\obj\Debug\net8.0\ref\Strategie.dll

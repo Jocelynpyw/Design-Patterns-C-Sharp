@@ -1,0 +1,14 @@
+D:\PROJETS\C#\Observer\Observer\bin\Debug\net8.0\Observer.exe
+D:\PROJETS\C#\Observer\Observer\bin\Debug\net8.0\Observer.deps.json
+D:\PROJETS\C#\Observer\Observer\bin\Debug\net8.0\Observer.runtimeconfig.json
+D:\PROJETS\C#\Observer\Observer\bin\Debug\net8.0\Observer.dll
+D:\PROJETS\C#\Observer\Observer\bin\Debug\net8.0\Observer.pdb
+D:\PROJETS\C#\Observer\Observer\obj\Debug\net8.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETS\C#\Observer\Observer\obj\Debug\net8.0\Observer.AssemblyInfoInputs.cache
+D:\PROJETS\C#\Observer\Observer\obj\Debug\net8.0\Observer.AssemblyInfo.cs
+D:\PROJETS\C#\Observer\Observer\obj\Debug\net8.0\Observer.csproj.CoreCompileInputs.cache
+D:\PROJETS\C#\Observer\Observer\obj\Debug\net8.0\Observer.dll
+D:\PROJETS\C#\Observer\Observer\obj\Debug\net8.0\refint\Observer.dll
+D:\PROJETS\C#\Observer\Observer\obj\Debug\net8.0\Observer.pdb
+D:\PROJETS\C#\Observer\Observer\obj\Debug\net8.0\Observer.genruntimeconfig.cache
+D:\PROJETS\C#\Observer\Observer\obj\Debug\net8.0\ref\Observer.dll
